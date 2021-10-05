@@ -2,4 +2,4 @@
 
 제출 명단
 
-1. 이동훈 : [과제 제출](https://github.com/suhyunn/ssac_careerly_homework.git)
+1. 김수현 : [과제 제출](https://github.com/suhyunn/ssac_careerly_homework.git)
